@@ -1,2 +1,1 @@
-# react_seminar_assignment
-to-do list
+# sparcs-react-seminar

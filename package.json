@@ -1,0 +1,41 @@
+{
+  "name": "sparcs-react-seminar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "template": "cd template && npm start",
+    "component-basic": "cd component-basic && npm start",
+    "state": "cd state && npm start",
+    "effect": "cd effect && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrasshopperBears/sparcs-react-seminar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrasshopperBears/sparcs-react-seminar/issues"
+  },
+  "homepage": "https://github.com/GrasshopperBears/sparcs-react-seminar#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-scripts": "5.0.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "module": "true"
+}
